@@ -1,0 +1,107 @@
+.kole{
+    background-color:#dddddd;
+    background-repeat: repeat-y;
+}
+.nega{
+   text-align: right;
+}
+.dmah{
+    background-color: #ffffff;
+    margin-top: 10px;
+}
+.mahbob{
+    text-align: right;
+    float: right;
+    background-color: lime;
+    color: #ffffff;
+    margin-top: 10px;
+}
+.dasteh{
+    text-align: right;
+    float: left;
+    margin-top: 10px;;
+}
+.bgcdasteh{
+    background-color: #dddddd;
+    color: #555555;
+}
+.bgcimg{
+    background-color: #ffffff;
+}
+.stimg{
+    margin-left: 2em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+.soog{
+    margin-top: 1em;
+}
+.stalbom{
+    margin-left: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.albomh{
+    float: right;
+}
+.sta{
+    display: inline;
+    margin-left: 10em;
+}
+.staa{
+    display: inline;
+    margin-left: 6em;
+}
+.ptext{
+    color: lime;
+    margin-left: 7em;
+}
+.pttt{
+    margin-left: 7em;
+}
+.koch{
+    margin-left: 1em;
+    margin-bottom: 1em;
+}
+.toppic{
+    margin-top:1em;
+    display: inline;
+}
+.titlm{
+    text-align: right;
+    background-color: lime;
+    margin-left: 23em;
+    margin-top: 1em;
+}
+.titlkh{
+    text-align: right;
+    background-color: lime;
+    margin-left: 29em;
+    margin-top: 1em;
+}
+.floatl{
+    float: left;
+}
+.stkh{
+    display: inline;
+    margin-right:5em;
+}
+.stjp{
+    margin-left: 5px;
+    margin-top: 4px;
+
+}
+.nazar{
+    text-align: center;
+}
+.test{
+    margin-left: 2em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    width: 152px;
+    height: 155px;
+}
+
+
+
+
